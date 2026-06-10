@@ -158,8 +158,8 @@ const WHY_US = [
    ============================================ */
 const TESTIMONIALS = [
   {
-    name: 'melda tokdemir',
-    text: 'aracım arazide gezdiğim için çok kirliydi yıkamadan sonra bayiden yeni çıkmış gibi oldu. aldığım hizmetten çok memnun kaldım kendilerine çok teşekkür ederim.',
+    name: 'Efe Özkan Şahin',
+    text: 'Aracımı iç dış temizliğe götürdüm sağ ön koltuğuma meyve suyu dökülmüştü leke yapmıştı gayet başarılı bir şekilde leke giderildi. Bayiden çıkmış gibi teslim aldım aracımı.İşletenler de çok güler yüzlü titizdi güzel bir temizlik oldu. Konum ulaşılabilirliği hızlı çalışma ve samimiyetleri tekrar buraya gelmemi ve tavsiye etmemi sağlayacak.',
     rating: 5,
     date: '5 ay önce'
   },
